@@ -1,6 +1,9 @@
 <?php
     require('env.php');
     require('db.php');
+    require("url.php");
+    require("../Main/AbstractModel.php");
+    require("../Main/AbstractController.php");
 
     use Config\Env;
 
